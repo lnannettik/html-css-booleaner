@@ -16,5 +16,32 @@ h1 {
 
 .potrebbero {
     color: lightgray;
+}
 
+.autor {
+    color: #1faae5;
+}
+
+thead {
+    background-color: #1faae5;
+}
+
+.riga1 {
+    background-color: #b1e5f2;
+}
+
+.riga3 {
+    background-color: #b1e5f2;
+}
+
+.tim1 {
+    display: inline;
+}
+
+.tim2 {
+    display: inline;
+}
+
+.elenco {
+    padding-left: 10px;
 }
