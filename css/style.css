@@ -2,9 +2,19 @@
 
 .content {
     margin: 100px auto;
-    width: 700;
+    width: 800px;
 }
 
 h1 {
     color: red;
+}
+
+#abbaba {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.potrebbero {
+    color: lightgray;
+
 }
